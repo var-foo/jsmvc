@@ -1,0 +1,12 @@
+[submodule "steal"]
+	path = steal
+	url = git@github.com:jamescmunro/steal.git
+[submodule "jquery"]
+	path = jquery
+	url = git@github.com:jamescmunro/jquerymx.git
+[submodule "funcunit"]
+	path = funcunit
+	url = git@github.com:jamescmunro/funcunit.git
+[submodule "documentjs"]
+	path = documentjs
+	url = git@github.com:jamescmunro/documentjs.git
